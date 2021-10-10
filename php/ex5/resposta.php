@@ -14,6 +14,3 @@
 </div>
 
 <a href="javascript:history.go(-1)" class="btn btn-primary fs-5 px-4 mt-5">Voltar</a>
-
-
-<?php require_once './../footer.php' ?>
